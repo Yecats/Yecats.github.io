@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<div class="columns is-multiline">
+    {% for post in paginator.posts %}
+    <div class="column is-12"> 
+        {% include post-card.html %}
+    </div>
+    {% endfor %}
+    {% if paginator.total_pages > 1 %}
+    <div class="column is-12">
+            {% include pagination.html %}
+    </div>
+    {% endif %}  
+</div>

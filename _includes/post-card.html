@@ -1,0 +1,53 @@
+{% if post.author %} 
+    {% capture author-icon %}
+        "{{site.baseurl}}/assets/author/{{post.author | replace: " ", ""}}.png"
+    {% endcapture %}
+{% else %} 
+    {% assign author-icon = 'https://bulma.io/images/placeholders/128x128.png' %} 
+{% endif %}
+
+{% if post.image %}
+    {% capture post-image %}
+        "{{site.baseurl}}/tutorial/{{post.folder_path}}/images/{{post.image}}"
+    {% endcapture %}
+{% else %}
+    {% assign post-image = 'https://bulma.io/images/placeholders/480x480.png' %} 
+{% endif %}
+
+<div class="card">
+    <div class="card-content">
+        <div class="content">
+            <div class="columns columns-post-card-no-margin is-vcentered">
+                {% if post.image %}
+                <div class="column is-3 thumbnail">
+                    <img class="portrait" src={{ post-image }}>
+                </div>
+                {% endif %}
+                <div class="column">
+                    <h1><a class="title is-4" href="{{ site.baseurl }}{{ post.url }}">{{ post.tutorial_title}}</a></h1>
+                    <div class="columns columns-post-card is-vcentered">
+                        <div class="column is-2 is-icon-image-48x48">
+                            <img class="is-rounded is-48x48" src={{ author-icon }}>
+                        </div>
+                        <div class="column">
+                            <p class="subtitle is-6">
+                                <a href="https://www.twitter.com/yecats131"> {{post.author}}</a>,
+                                {{post.date | date: "%b %-d, %Y"}}
+                            </p>
+                        </div>
+                    </div>
+                    <p>{{ post.long-description }}</p>
+
+                    {{% if post.tags %}}
+                    <div class="tags">
+                        {% for tag in post.tags %}
+                        <span class="tag is-highlight">{{ tag }}</span>
+                        {% endfor %}
+                    </div>
+                    {{% endif %}}
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>

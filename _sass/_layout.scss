@@ -1,0 +1,152 @@
+.content {
+    ul.pagination-list {
+        list-style: none;
+        margin-left: 0;
+        margin-top: 0;
+
+        li+li {
+            margin-top: 0;
+        }
+    }
+}
+
+div.highlight {
+    margin-bottom: 1rem;
+}
+
+@include desktop {
+    .navbar-item {
+        &.is-hoverable:hover {
+            .navbar-dropdown {
+                display: block;
+            }
+        }
+    }
+}
+
+.contents {
+    box-shadow: $box-shadow;
+    padding: 1.5rem;
+    margin-bottom: 3rem;
+}
+
+.content blockquote
+{
+    border-left: 10px solid $highlight;
+}
+
+.menu-list a.is-active
+{
+    background-color: $highlight;
+    color: #fff;
+}
+
+.is-highlight
+{
+    background-color: $highlight;
+    color: #fff;
+}
+
+.menu{
+    background-color:white;
+    padding:20px;
+    box-shadow: 0 0.5em 1em -0.125em rgba(10,10,10,.1), 0 0 0 1px rgba(10,10,10,.02);
+}
+
+.box-highlight
+{
+    box-shadow: 0 0.5em 1em -0.125em rgba(10,10,10,.1), 0 0 0 1px rgba(10,10,10,.02);
+    background-color: white;
+    padding: 30px;
+}
+
+.section-post
+{
+    margin-top:0px;
+    padding-top:0px;
+}
+
+.container-post
+{
+    margin-left:100px;
+}
+
+.card-header-title
+{
+    font-size: 20px;
+}
+
+.columns-post-card
+{
+    margin-left:0px;
+    margin-right:0px;
+}
+
+.columns-post-card-no-margin
+{
+    margin:0px;
+}
+
+.is-48x48
+{
+    height: 48px;
+    width: 48px;
+}
+
+.is-rounded
+{
+  border-radius: 290486px;
+}
+
+.column .is-icon-image-48x48
+{
+    width:48px;
+    padding-right:0px;
+    padding-left:0px;
+}
+
+.thumbnail {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+  }
+  .thumbnail img {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    height: 100%;
+    width: auto;
+    -webkit-transform: translate(-50%,-50%);
+        -ms-transform: translate(-50%,-50%);
+            transform: translate(-50%,-50%);
+  }
+  .thumbnail img.portrait {
+    width: 100%;
+    height: auto;
+  }
+
+  .button .icon:first-child:last-child
+  {
+      margin-right:0px;
+  }
+
+  .button .icon:first-child:last-child
+  {
+      margin-right:0px;
+  }
+
+  .remove-right-margin
+  {
+      margin-right:0px !important;
+  }
+
+  .remove-left-margin
+  {
+      margin-left: 0px !important;
+  }
+
+    .is-tutorial
+  {
+    width: 200px;
+  }

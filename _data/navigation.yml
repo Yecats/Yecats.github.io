@@ -1,0 +1,6 @@
+- name: Tutorials
+  link: /tutorial/
+- name: Resources
+  link: /pages/resources.html
+- name: GitHub Repo
+  link: https://github.com/Yecats/GameDevTutorials

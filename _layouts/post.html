@@ -1,0 +1,84 @@
+---
+layout: default
+---
+{% assign menus = site.data[page.menubar] %}
+{% assign i = 0 %}
+{% assign previous = "null" %}
+{% assign next = "null" %}
+
+{% for menu in menus %}
+    {% for item in menu.items %}
+
+        {% if item.link == page.url %}
+            {% assign my_id = i %}
+
+            {% unless my_id == 0 %}
+                {% assign previous_id = my_id | minus: 1  %}
+                {% assign previous = menu.items[previous_id].link %}
+            {% endunless -%}
+            {% assign next_id = my_id | plus: 1  %}
+
+            {% unless next_id == menu.items.size %}
+                {% assign next = menu.items[next_id].link %}
+            {% endunless %}
+
+            {% break %}
+        {% endif %}
+
+        {% assign i = i | plus: 1 %}
+    {% endfor %}
+{% endfor %}
+
+
+<div class="content box-highlight">
+    <h1>{{page.page_title}}</h1>
+    {% if page.include_header %}
+    <p>Last Update: {{ page.date | date: "%b %-d, %Y" }} by {{ page.author }}</p>
+    {% endif %}
+    <div class="tags">
+        {% for tag in page.tags %}
+        <span class="tag is-secondary">{{ tag }}</span>
+        {% endfor %}
+    </div>
+    {% if page.repo_Link %}
+    <p>
+        <a href="{{site.gitHub_BaseUrl}}{{ page.repo_Link }}" class="button is-highlight">
+            <span class="icon">
+                <i class="fab fa-github"></i>
+            </span>
+            Project Files
+        </a>
+    </p>
+    {% endif %}
+
+    {{ content }}
+    <nav class="level">
+            <div class="level-left">
+                    {% unless previous == "null" %}
+                <div class="level-item">
+                    <a href="{{previous}}"
+                        class="button is-highlight is-medium is-tutorial">
+                        <span class="icon">
+                                <i class="fas fa-chevron-left"></i>
+                            </span>
+                        Previous
+                    </a>
+                </div>
+        {% endunless %}
+            </div>
+            <div class="level-right">
+
+            {%- unless next == "null" -%}
+                    <div class="level-item">
+                        <a href="{{next}}"
+                            class="button is-highlight is-medium is-tutorial">
+                            Next
+                            <span class="icon remove-left-margin">
+                                    <i class="fas fa-chevron-right"></i>
+                            </span>
+                        </a>
+                    </div>
+            {%- endunless -%}
+        </div>
+    </nav>
+</div>

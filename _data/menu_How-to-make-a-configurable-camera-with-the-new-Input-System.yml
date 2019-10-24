@@ -1,0 +1,18 @@
+- label: Table of Contents
+  items:
+    - name: Introduction
+      link: /2019/10/17/How-to-make-a-configurable-camera-with-the-new-Input-System.html
+    - name: Installing the Input System
+      link: /tutorial/How-to-make-a-configurable-camera-with-the-new-Input-System/pt-1-installing-the-input-system.html
+    - name: Setting up the Input System
+      link: /tutorial/How-to-make-a-configurable-camera-with-the-new-Input-System/pt-2-setting-up-the-input-system.html
+    - name: Setting up and moving the camera
+      link: /tutorial/How-to-make-a-configurable-camera-with-the-new-Input-System/pt-3-setting-up-and-moving-the-camera.html
+    - name: Hooking the Input System to code
+      link: /tutorial/How-to-make-a-configurable-camera-with-the-new-Input-System/pt-4-hooking-it-up-to-code.html
+    - name: Fixing the camera movement
+      link: /tutorial/How-to-make-a-configurable-camera-with-the-new-Input-System/pt-5-fixing-the-camera-movement.html
+    - name: Adding zoom behavior
+      link: /tutorial/How-to-make-a-configurable-camera-with-the-new-Input-System/pt-6-adding-zoom-behavior.html
+    - name: Adding rotation behavior
+      link: /tutorial/How-to-make-a-configurable-camera-with-the-new-Input-System/pt-7-adding-rotation-behavior.html
