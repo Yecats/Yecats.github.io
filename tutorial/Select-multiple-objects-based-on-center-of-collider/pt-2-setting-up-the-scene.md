@@ -14,13 +14,13 @@ The player will see a green square when they push the left mouse button and drag
 
 Setup the scene by adding the canvas and panel:
 
-1. Right click on an empty spot in the the hiararchy and go to **UI** > **Canvas**. 
+1. Right click on an empty spot in the hierarchy and go to **UI** > **Canvas**. 
 2. Set the following properties:
    1. **Render Mode:** Screen Space Camera
    2. **Render Camera:** Main Camera
    3. **Plane Distance:** 1
 
-By setting the render mode to Screen Space Camera, Unity is being told to 1) place the canvas infront of the specified camera and 2) only render it to that camera. This can allow for greater manipulation in the future, should you want a different experience for a set scenario. The plane distance property is simply saying how far in front of the camera we want the canvas to be.
+By setting the render mode to Screen Space Camera, Unity is being told to 1) place the canvas in front of the specified camera and 2) only render it to that camera. This can allow for greater manipulation in the future, should you want a different experience for a set scenario. The plane distance property is simply saying how far in front of the camera we want the canvas to be.
 
 > You could choose to leave the **render mode** to **Screen Space - Overlay**, if you prefer that method. I find this view more annoying when working in the scene. You can also read more about the Canvas and Render Modes [here](https://docs.unity3d.com/Manual/UICanvas.html).
 

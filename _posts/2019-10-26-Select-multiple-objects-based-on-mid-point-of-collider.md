@@ -24,16 +24,14 @@ Learn how to create an RTS/RPG "drag-to-select multiple characters" game mechani
 ## Learning Outcomes
 
 1. Continue to work with the Input System by setting up more action / binding mappings.
-2. Understand what a colliders "bounds" is and how you can work with it to get useful information.
+2. Understand what the colliders "bounds" is and how you can work with it to get useful information.
 3. Learn about the different 'spaces' (Screen, World, Local) within Unity. 
 4. Learn how to convert a world point to UI screen space. 
 
 ## Prerequisites
-This is a continuation of the [Listen for the Input System Action events via CSharp]({{site.baseurl}}/2019/10/19/Listen-for-the-Input-System-Action-events-via-CSharp.html) tutorial, which is part two of the Input System series. You can skip previous tutorials by cloning the starterProject in this section of the repository.
+This is a continuation of the [Listen for the Input System Action events via CSharp]({{site.baseurl}}/2019/10/19/Listen-for-the-Input-System-Action-events-via-CSharp.html) tutorial, which is part two of the Input System series. You can skip previous tutorials by cloning the **starterProject** in the repository.
 
 > Note: This tutorial will not cover previous topics in depth (such as how the Input Manager works). It is recommended that you start from the beginning of the series if you are missing any concepts. 
-
-
 
 ![Demo of Final Result]({{site.baseurl}}/tutorial/Select-multiple-objects-based-on-center-of-collider/images/pt-5-4-final-demo.gif)
 
