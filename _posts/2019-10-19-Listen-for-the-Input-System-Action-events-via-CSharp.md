@@ -14,6 +14,7 @@ published: true
 include_header: true
 hide_footer: true
 hero_height: is-small
+comments: true
 ---
 
 > This tutorial was created with Unity version 2019.2.

@@ -8,6 +8,7 @@ published: true
 menubar: menu_listen-for-input-system-events-via-csharp
 hide_footer: true
 hero_height: is-small
+comments: true
 ---
 
 Now that the project is listening for specific events, we do not have a need to do a validation check for a particular phase before performing the Action. Instead, we can rest assured that the `OnMove()` and `OnZoom()` methods will only be called when we want them to. 

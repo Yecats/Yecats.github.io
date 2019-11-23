@@ -8,6 +8,7 @@ published: true
 menubar: menu_How-to-make-a-configurable-camera-with-the-new-Input-System
 hide_footer: true
 hero_height: is-small
+comments: true
 ---
 
 Adding the ability to zoom will require a small refactor to keep things clean. This is because the camera will need the ability to recompute its new Y/Z values depending on the current zoom value. 

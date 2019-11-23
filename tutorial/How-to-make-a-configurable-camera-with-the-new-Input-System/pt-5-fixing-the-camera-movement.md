@@ -8,6 +8,7 @@ published: true
 menubar: menu_How-to-make-a-configurable-camera-with-the-new-Input-System
 hide_footer: true
 hero_height: is-small
+comments: true
 ---
 
 Well, that's not quite "it" - This is not the behavior that we want. The player should be able to hold down a key and see the camera move constantly in that direction. The reason this happens because the Input System is only sending an event when the key is pressed. It does not have an easy way to monitor for a key being pressed. We’ll need to handle this ourselves. 

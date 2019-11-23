@@ -8,6 +8,7 @@ published: true
 menubar: menu_How-to-make-a-configurable-camera-with-the-new-Input-System
 hide_footer: true
 hero_height: is-small
+comments: true
 ---
 
 Now that there's some initial code, it’s time to do a test run to see how it’s behaving. To do this, you'll need to tell the Input System where to route the actions.

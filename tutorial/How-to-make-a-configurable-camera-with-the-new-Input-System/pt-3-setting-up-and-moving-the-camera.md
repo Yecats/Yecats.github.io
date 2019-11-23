@@ -8,6 +8,7 @@ published: true
 menubar: menu_How-to-make-a-configurable-camera-with-the-new-Input-System
 hide_footer: true
 hero_height: is-small
+comments: true
 ---
 
 There will be two game objects that will be manipulated - a **Camera Rig** and the **Main Camera**:

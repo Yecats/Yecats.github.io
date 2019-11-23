@@ -8,7 +8,7 @@ published: true
 menubar: menu_How-to-make-a-configurable-camera-with-the-new-Input-System
 hide_footer: true
 hero_height: is-small
-
+comments: true
 ---
 
 Unity has been overhauling the Input System to be more robust and to work better for multiple platforms and device configurations. It can also be easily configured to process input for multiple local players (though we will not be doing that in this tutorial). 

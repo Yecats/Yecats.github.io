@@ -8,6 +8,7 @@ published: true
 menubar: menu_How-to-make-a-configurable-camera-with-the-new-Input-System
 hide_footer: true
 hero_height: is-small
+comments: true
 ---
 
 Rotating the camera is a two-step process. First, you’ll need to know whether the player is telling you to rotate. This will be done by monitoring whether the Right Mouse button is pushed. If it is then we’ll process the mouse position to tell our game which way to rotate.

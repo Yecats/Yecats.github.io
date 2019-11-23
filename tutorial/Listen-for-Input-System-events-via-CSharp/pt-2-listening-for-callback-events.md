@@ -8,6 +8,7 @@ published: true
 menubar: menu_listen-for-input-system-events-via-csharp
 hide_footer: true
 hero_height: is-small
+comments: true
 ---
 To keep things clean and central, we are going to plan for the future and have a general `InputManager` class that can listen for all events under our Player Action Map, not just those related to the camera. This means that we'll register a listener for callbacks in `InputManager` and once triggered, we will have the `CameraController` class to take action.
 

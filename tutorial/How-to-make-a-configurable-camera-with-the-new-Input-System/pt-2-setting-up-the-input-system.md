@@ -8,6 +8,7 @@ published: true
 menubar: menu_How-to-make-a-configurable-camera-with-the-new-Input-System
 hide_footer: true
 hero_height: is-small
+comments: true
 ---
 
 The new Input System is a lot more complicated than the original one. This makes it harder to learn at first, but for a good cause – it is far more robust and when setup correctly, will take less work to use.

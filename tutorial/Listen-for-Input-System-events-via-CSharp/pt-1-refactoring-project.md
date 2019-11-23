@@ -8,6 +8,7 @@ menubar: menu_listen-for-input-system-events-via-csharp
 published: true
 hide_footer: true
 hero_height: is-small
+comments: true
 ---
 
 > This is a continuation of the [How to make a configurable camera with the new Input System]({{site.baseurl}}/2019/10/17/How-to-make-a-configurable-camera-with-the-new-Input-System.html) tutorial, which covers fundamental knowledge of the Input System. If you have skipped the tutorial but want to follow along, make sure to grab the starterProject files in this repository.
