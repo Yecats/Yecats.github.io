@@ -8,6 +8,7 @@ published: true
 menubar: menu-select-multiple-objects-based-on-mid-point-of-collider
 hide_footer: true
 hero_height: is-small
+comments: true 
 ---
 
 While that's neat, the player should be able to draw a rectangle that indicates the space in the world that they want to select objects in. Fortunately, this is simple to do! 

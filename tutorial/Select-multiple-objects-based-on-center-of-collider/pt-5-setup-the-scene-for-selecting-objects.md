@@ -8,6 +8,7 @@ published: true
 menubar: menu-select-multiple-objects-based-on-mid-point-of-collider
 hide_footer: true
 hero_height: is-small
+comments: true
 ---
 > This logic would work with any point within the game object. In other words, a collider is not required. You could instead have it set to the Transform.positin property of a game object or even your own arbitrary point. 
 

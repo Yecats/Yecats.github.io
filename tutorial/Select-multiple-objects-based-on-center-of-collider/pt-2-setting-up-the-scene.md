@@ -8,6 +8,7 @@ published: true
 menubar: menu-select-multiple-objects-based-on-mid-point-of-collider
 hide_footer: true
 hero_height: is-small
+comments: true
 ---
 
 The player will see a green square when they push the left mouse button and drag along the screen. Behind the scenes, a Panel UI object will be used to represent the rectangle they've drawn. The size and position of the box will be determined via mouse properties. 

@@ -8,6 +8,7 @@ published: true
 menubar: menu-select-multiple-objects-based-on-mid-point-of-collider
 hide_footer: true
 hero_height: is-small
+comments: true
 ---
 
 While this logic is a great starting point, it's missing a couple of features that would make it feel more natural. Your challenge, should you choose to accept, is to write functionality that accounts for the following scenarios:

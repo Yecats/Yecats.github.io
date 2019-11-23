@@ -8,6 +8,7 @@ published: true
 menubar: menu-select-multiple-objects-based-on-mid-point-of-collider
 hide_footer: true
 hero_height: is-small
+comments: true
 ---
 
 The logic for managing selected game objects and performing the correct action when the input is triggered will be done in a new script, called `PartyManager.cs`. Create the script and add the following code:

@@ -8,6 +8,7 @@ published: true
 menubar: menu-select-multiple-objects-based-on-mid-point-of-collider
 hide_footer: true
 hero_height: is-small
+comments: true
 ---
 
 The world space point of the `collider.bounds.center` property will need to be converted in the UI space to detect if a character should be selected. Then it will be compared to the bounds of the **Selection Panel** to see if it exists within it. If it does, then `PlayerDetail` will be notified to turn set the `isSelected` property to true.

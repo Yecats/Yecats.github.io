@@ -81,4 +81,8 @@ layout: default
             {%- endunless -%}
         </div>
     </nav>
+
+    {% if page.comments %}
+        {% include disqus.html %}
+    {% endif %}
 </div>

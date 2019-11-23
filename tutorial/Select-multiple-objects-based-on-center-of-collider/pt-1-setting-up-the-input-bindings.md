@@ -8,6 +8,7 @@ published: true
 menubar: menu-select-multiple-objects-based-on-mid-point-of-collider
 hide_footer: true
 hero_height: is-small
+comments: true
 ---
 
 The first thing that will need to be done is to give the player a way to tell the game which object(s) they want to select. To enable this, the game will need to monitor for input, which will be tied to the left mouse button.
