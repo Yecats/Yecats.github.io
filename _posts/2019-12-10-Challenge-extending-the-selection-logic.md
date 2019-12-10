@@ -9,8 +9,8 @@ long-description: Extends the RTS/RPG “drag-to-select multiple characters” g
 menubar: menu-challenge-extending-selection-logic
 repo_Link: /Unity/Challenge-review-select-multiple-objects-with-shift
 folder_path: challenge-extending-selection-logic
-image: 
-tags: unity input-system C# ui mouse-events
+image: final.gif
+tags: challenge-solution unity input-system C# ui mouse-events
 published: true
 include_header: true
 hide_footer: true
