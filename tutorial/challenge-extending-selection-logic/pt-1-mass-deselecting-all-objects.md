@@ -1,8 +1,8 @@
 ---
 layout: post
-tutorial_title: Challenge Solution:: Extending the selection logic
+tutorial_title: Challenge Solution - Extending the selection logic
 page_title:  "Mass deselecting all objects"
-date:   2019-12-02
+date: 2019-12-10
 author: Stacey Haffner
 published: true
 menubar: menu-challenge-extending-selection-logic
