@@ -27,12 +27,14 @@ In certain scenarios it may be beneficial to listen for Input System Action call
 ## Prerequisites
 This is a continuation of the [How to make a configurable camera with the new Input System]({{site.baseurl}}/2019/10/17/How-to-make-a-configurable-camera-with-the-new-Input-System.html) tutorial, which covers fundamental knowledge of the Input System. While not recommended (unless you are already familiar with the Input System) you can skip tutorial by cloning the **starterProject** in the repository.
 
-## Previous Tutorials in this Series
+## Tutorials in this Series
 1. Part 1: [How to make a configurable camera with the new Input System]({{site.baseurl}}/2019/10/17/How-to-make-a-configurable-camera-with-the-new-Input-System.html)
+2. Part 2: [Listen for the Input System Action events via CSharp]({{site.baseurl}}/2019/10/19/Listen-for-the-Input-System-Action-events-via-CSharp.html)
+3. Part 3: [How to select multiple objects based on the center of a collider]({{site.baseurl}}/2019/10/26/Select-multiple-objects-based-on-mid-point-of-collider.html)
+4. Part 4:  [Challenge Solution: Extending the selection logic]({{site.baseurl}}/2019/12/02/2019-12-02-Challenge-extending-the-selection-logic.html)
 
 ## Resources
-1. Comments, concerns and/or questions can be posted [here](https://github.com/Yecats/GameDevTutorials/issues/4).
-2.	Input System [documentation](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.0/manual/index.html) and [GitHub repository](https://github.com/Unity-Technologies/InputSystem).
-3. [Introducing the new Input System - Unite Copenhagen Video](https://youtu.be/hw3Gk5PoZ6A)
-1. This project uses the [Low Poly: Free Pack](https://www.assetstore.unity3d.com/en/#!/content/58821) by AxeyWorks.
+1.	Input System [documentation](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.0/manual/index.html) and [GitHub repository](https://github.com/Unity-Technologies/InputSystem).
+2. [Introducing the new Input System - Unite Copenhagen Video](https://youtu.be/hw3Gk5PoZ6A)
+3. This project uses the [Low Poly: Free Pack](https://www.assetstore.unity3d.com/en/#!/content/58821) by AxeyWorks.
 

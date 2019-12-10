@@ -1,10 +1,6 @@
 - label: Table of Contents
   items:
     - name: Introduction
-      link: /2019/10/19/Listen-for-the-Input-System-Action-events-via-CSharp.html
-    - name: Refactoring and setting up the project
-      link: /tutorial/Listen-for-Input-System-events-via-CSharp/pt-1-refactoring-project.html      
-    - name: Listening for callback events
-      link: /tutorial/Listen-for-Input-System-events-via-CSharp/pt-2-listening-for-callback-events.html
-    - name: Cleaning up the CameraController class
-      link: /tutorial/Listen-for-Input-System-events-via-CSharp/pt-3-cleaning-up-camera-controller.html
+      link: /2019/12/02/Challenge-extending-the-selection-logic.html
+    - name: Mass deselecting all objects
+      link: /tutorial/challenge-extending-selection-logic/pt-1-mass-deselecting-all-objects.html    
