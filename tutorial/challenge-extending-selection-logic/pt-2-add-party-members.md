@@ -67,11 +67,10 @@ private bool _initialPartySetup;
 The `LeftMouseDown_OnClick()` method will set the new global variable based on if there's any characters currently selected. Add the following line to the end of the method:
 
 ```csharp
-_initialPartySetup = Characters.Count(x => x.IsSelected) == 0;
-
+_initialPartySetup = Characters.Count(x => x.IsSelected) == 0;  
 ```
 
-Next, the `SelectPartyMembers()` method will use the `_initialPartySetup` and `_shiftButtonDown` variables to determine if it should execute. By doing this, we'll correct the bad behavior mentioned above.
+Next, the `SelectPartyMembers()` method will use the `_initialPartySetup` and `_shiftButtonDown` variables to determine if it should execute and if so, who it should mark as selected. By doing this, we'll correct the bad behavior mentioned previously.
 
 ```csharp
 private void SelectPartyMembers()
@@ -93,7 +92,7 @@ private void SelectPartyMembers()
         //This is an addition to an existing party
         if (!_initialPartySetup && _shiftButtonDown)
         {
-            //make sure we're only operating on characters who are selected. Without this our existing party members would be deselected
+            //make sure we're only operating on characters who are not selected. Without this our existing party members would be deselected
             if (!character.IsSelected)
             {
                 character.IsSelected = RectTransformUtility.RectangleContainsScreenPoint(_selectedPanel, screenPosition);
