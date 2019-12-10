@@ -9,7 +9,7 @@ long-description: Extend the RTS/RPG “drag-to-select multiple characters” ga
 menubar: menu-challenge-extending-selection-logic
 repo_Link: /Unity/Challenge-review-extend-selection-logic
 folder_path: challenge-extending-selection-logic
-image: final.gif
+image:
 tags: challenge-solution unity input-system C# ui mouse-events
 published: true
 include_header: true
