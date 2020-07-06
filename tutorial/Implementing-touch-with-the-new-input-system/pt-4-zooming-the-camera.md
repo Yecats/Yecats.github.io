@@ -11,8 +11,6 @@ hero_height: is-small
 comments: true
 ---
 
-# Zooming the camera
-
 As mentioned above, the player can zoom the camera by making a pinching motion with their fingers. Moving the fingers closer together zooms out, while moving them further apart zooms in. You'll add this motion next. Add a new **class variable** to `InputManager` above the `Awake` method:
 
 ``` csharp

@@ -10,7 +10,6 @@ hide_footer: true
 hero_height: is-small
 comments: true
 ---
-# Finish setting up the user interface
 
 The **Event Trigger** component is wonderful for interacting with all the UI's events. You'll use the **Event Trigger** component to call `BuildManager.Build` during the **PointerDown** event. Here's how to set it up:
 

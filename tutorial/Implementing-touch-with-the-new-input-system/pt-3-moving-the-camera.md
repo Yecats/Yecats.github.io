@@ -11,8 +11,6 @@ hero_height: is-small
 comments: true
 ---
 
-# The camera setup and movement
-
 Building a good camera setup can be quite complicated, depending on the type of game you're creating. In this demo, the camera behaves as it would in an isometric game. There are two ways the player can interact with the camera:
 
 1.  Use a single finger to move around the scene.

@@ -10,7 +10,6 @@ hide_footer: true
 hero_height: is-small
 comments: true
 ---
-# Getting the touch input
 
 As with anything that gives you deep control, there are several ways gather touch input. Rather than using the [Input Action asset](https://docs.unity3d.com/Packages/com.unity.inputsystem@0.2/manual/index.html) setup, which is great for multiple input device support, you'll use the [EnhancedTouchSupport](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.0/manual/Touch.html) API. This API is useful if you have many touch sources. To start, look at how you can get useful information on the touch actions taken.
 

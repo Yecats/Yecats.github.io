@@ -10,8 +10,6 @@ hide_footer: true
 hero_height: is-small
 comments: true
 ---
-# Challenge: Upgrade a placed building
-
 With the knowledge you've learned, you're ready for your first challenge! Try extending the building behavior to upgrade a placed building. Here's how the logic could work:
 
 1.  The player single taps on a placed building to enter upgrade mode. The UI icons change as a result.

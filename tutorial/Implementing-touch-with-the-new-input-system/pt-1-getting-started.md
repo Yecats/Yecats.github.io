@@ -10,8 +10,6 @@ hide_footer: true
 hero_height: is-small
 comments: true
 ---
-# Getting started
-
 
 This tutorial relies on scripts and models that are included in the **starter project**. You can download the **starter project** by:
 

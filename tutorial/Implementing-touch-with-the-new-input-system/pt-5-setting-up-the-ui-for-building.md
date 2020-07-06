@@ -11,8 +11,6 @@ hero_height: is-small
 comments: true
 ---
 
-# Set up the UI for building placement 
-
 I've been playing many strategy games lately, which got me thinking: Wouldn't it be fun to give the player the ability to build with the new Input System? So, that's what you're going to do for the final part of this tutorial! Here's how it'll work:
 
 1.  The UI has two icons the player can choose. They can build a woodcutters lodge or a well.

@@ -10,8 +10,6 @@ hide_footer: true
 hero_height: is-small
 comments: true
 ---
-# Gather the building input
-
 The project already includes a `BuildManager` script. Again, take a moment to look at what each method does. Here's a breakdown of the key points:
 
 -   **Awake**: Makes sure there's only one instance of the script in the scene.
