@@ -1,0 +1,22 @@
+- label: Table of Contents
+  items:
+    - name: Introduction
+      link: /2020/07/05/Implementing-touch-with-the-new-input-system.html
+    - name: Getting started
+      link: /tutorial/Implementing-touch-with-the-new-input-system/pt-1-getting-started.html
+    - name: Getting the touch input
+      link: /tutorial/Implementing-touch-with-the-new-input-system/pt-2-getting-touch-input.html
+    - name: The camera setup and movement
+      link: /tutorial/Implementing-touch-with-the-new-input-system/pt-3-moving-the-camera.html
+    - name: Zooming the camera
+      link: /tutorial/Implementing-touch-with-the-new-input-system/pt-4-zooming-the-camera.html
+    - name: Set up the UI for building placement
+      link: /tutorial/Implementing-touch-with-the-new-input-system/pt-5-setting-up-the-ui-for-building.html
+    - name: Gather the building input
+      link: /tutorial/Implementing-touch-with-the-new-input-system/pt-6-gather-input-for-building.html
+    - name: Finish setting up the user interface
+      link: /tutorial/Implementing-touch-with-the-new-input-system/pt-7-finish-setting-up-the-ui.html
+    - name: Fixing the bugs and adding polish
+      link: /tutorial/Implementing-touch-with-the-new-input-system/pt-8-fixing-bugs-and-adding-polish.html
+    - name: Challenge - Upgrade a placed building
+      link: /tutorial/Implementing-touch-with-the-new-input-system/pt-9-challenge-upgrade-a-placed-building.html            

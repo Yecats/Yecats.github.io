@@ -1,6 +1,6 @@
 ---
 layout: post
-tutorial_title: Challenge Solution:: Extending the selection logic
+tutorial_title: Challenge Solution - Extending the selection logic
 page_title:  "Introduction"
 date:   2019-12-02
 author: Stacey Haffner
