@@ -1,3 +1,15 @@
+---
+layout: post
+tutorial_title: Implementing touch with Input System's Enhanced Touch API
+page_title:  "Challenge: Upgrade a placed building"
+date:   2020-07-05
+author: Stacey Haffner
+published: true
+menubar: menu_Implementing-touch-with-the-new-input-system
+hide_footer: true
+hero_height: is-small
+comments: true
+---
 # Challenge: Upgrade a placed building
 
 With the knowledge you've learned, you're ready for your first challenge! Try extending the building behavior to upgrade a placed building. Here's how the logic could work:

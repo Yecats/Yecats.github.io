@@ -1,3 +1,15 @@
+---
+layout: post
+tutorial_title: Implementing touch with Input System's Enhanced Touch API
+page_title:  "Fixing the bugs and adding polish"
+date:   2020-07-05
+author: Stacey Haffner
+published: true
+menubar: menu_Implementing-touch-with-the-new-input-system
+hide_footer: true
+hero_height: is-small
+comments: true
+---
 # Fixing the bugs and adding polish
 
 Currently, you have two bugs. The prefab isn't instantiated at the finger and is destroyed when placed on a world tile. These bugs occur because `BuildManager` expects a different scene setup. Look back at `BuildManager.CalculatePosition` and you'll see it has a Raycast looking for two layers. It expects **World**, Layer 9, and **TouchPlacement**, Layer 8. The **Tile** game object is set to **World**, but the scene doesn't have a game object set to **TouchPlacement**. Add it and see how this impacts the behavior:

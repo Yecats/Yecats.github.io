@@ -1,3 +1,16 @@
+---
+layout: post
+tutorial_title: Implementing touch with Input System's Enhanced Touch API
+page_title:  "Set up the UI for building placement "
+date:   2020-07-05
+author: Stacey Haffner
+published: true
+menubar: menu_Implementing-touch-with-the-new-input-system
+hide_footer: true
+hero_height: is-small
+comments: true
+---
+
 # Set up the UI for building placement 
 
 I've been playing many strategy games lately, which got me thinking: Wouldn't it be fun to give the player the ability to build with the new Input System? So, that's what you're going to do for the final part of this tutorial! Here's how it'll work:

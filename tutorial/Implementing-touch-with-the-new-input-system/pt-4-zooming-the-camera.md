@@ -1,3 +1,16 @@
+---
+layout: post
+tutorial_title: Implementing touch with Input System's Enhanced Touch API
+page_title:  "Zooming the camera"
+date:   2020-07-05
+author: Stacey Haffner
+published: true
+menubar: menu_Implementing-touch-with-the-new-input-system
+hide_footer: true
+hero_height: is-small
+comments: true
+---
+
 # Zooming the camera
 
 As mentioned above, the player can zoom the camera by making a pinching motion with their fingers. Moving the fingers closer together zooms out, while moving them further apart zooms in. You'll add this motion next. Add a new **class variable** to `InputManager` above the `Awake` method:

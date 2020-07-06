@@ -1,3 +1,15 @@
+---
+layout: post
+tutorial_title: Implementing touch with Input System's Enhanced Touch API
+page_title:  "Gather the building input"
+date:   2020-07-05
+author: Stacey Haffner
+published: true
+menubar: menu_Implementing-touch-with-the-new-input-system
+hide_footer: true
+hero_height: is-small
+comments: true
+---
 # Gather the building input
 
 The project already includes a `BuildManager` script. Again, take a moment to look at what each method does. Here's a breakdown of the key points:

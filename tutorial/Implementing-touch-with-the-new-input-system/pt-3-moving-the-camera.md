@@ -1,3 +1,16 @@
+---
+layout: post
+tutorial_title: Implementing touch with Input System's Enhanced Touch API
+page_title:  "The camera setup and movement"
+date:   2020-07-05
+author: Stacey Haffner
+published: true
+menubar: menu_Implementing-touch-with-the-new-input-system
+hide_footer: true
+hero_height: is-small
+comments: true
+---
+
 # The camera setup and movement
 
 Building a good camera setup can be quite complicated, depending on the type of game you're creating. In this demo, the camera behaves as it would in an isometric game. There are two ways the player can interact with the camera:
