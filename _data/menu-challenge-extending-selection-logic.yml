@@ -1,18 +1,8 @@
 - label: Table of Contents
   items:
     - name: Introduction
-      link: /2019/10/26/Select-multiple-objects-based-on-mid-point-of-collider.html
-    - name: Setting up the input bindings
-      link: /tutorial/Select-multiple-objects-based-on-center-of-collider/pt-1-setting-up-the-input-bindings.html      
-    - name: Setting up the scene
-      link: /tutorial/Select-multiple-objects-based-on-center-of-collider/pt-2-setting-up-the-scene.html
-    - name: Moving the panel based on mouse click
-      link: /tutorial/Select-multiple-objects-based-on-center-of-collider/pt-3-moving-the-panel-based-on-mouse-click.html
-    - name: Scaling the panel based on mouse position
-      link: /tutorial/Select-multiple-objects-based-on-center-of-collider/pt-4-scaling-the-panel-based-on-mouse-position.html
-    - name: Setup the scene for selecting objects
-      link: /tutorial/Select-multiple-objects-based-on-center-of-collider/pt-5-setup-the-scene-for-selecting-objects.html
-    - name: Coding the selection logic
-      link: /tutorial/Select-multiple-objects-based-on-center-of-collider/pt-6-coding-the-selection-logic.html
-    - name: Challenge - Extending the selection logic
-      link: /tutorial/Select-multiple-objects-based-on-center-of-collider/pt-7-challenge-extending-the-selection-logic.html                        
+      link: /2019/12/10/Challenge-extending-the-selection-logic.html
+    - name: Mass deselecting all party members
+      link: /tutorial/challenge-extending-selection-logic/pt-1-mass-deselecting-all-objects.html      
+    - name: Add party members
+      link: /tutorial/challenge-extending-selection-logic/pt-2-add-party-members.html                      

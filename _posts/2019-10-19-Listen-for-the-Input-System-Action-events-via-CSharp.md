@@ -31,7 +31,7 @@ This is a continuation of the [How to make a configurable camera with the new In
 1. Part 1: [How to make a configurable camera with the new Input System]({{site.baseurl}}/2019/10/17/How-to-make-a-configurable-camera-with-the-new-Input-System.html)
 2. Part 2: [Listen for the Input System Action events via CSharp]({{site.baseurl}}/2019/10/19/Listen-for-the-Input-System-Action-events-via-CSharp.html)
 3. Part 3: [How to select multiple objects based on the center of a collider]({{site.baseurl}}/2019/10/26/Select-multiple-objects-based-on-mid-point-of-collider.html)
-4. Part 4:  [Challenge Solution: Extending the selection logic]({{site.baseurl}}/2019/12/02/2019-12-02-Challenge-extending-the-selection-logic.html)
+4. Part 4:  [Challenge Solution: Extending the selection logic]({{site.baseurl}}/2019/12/10/Challenge-extending-the-selection-logic.html)
 
 ## Resources
 1.	Input System [documentation](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.0/manual/index.html) and [GitHub repository](https://github.com/Unity-Technologies/InputSystem).
