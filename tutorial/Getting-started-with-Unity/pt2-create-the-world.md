@@ -17,7 +17,7 @@ To explore this further, click on the **Main Camera** within the **Hierarchy** w
 2. **Camera**: Configures the GameObject to behave like a camera.
 3. **Audio Listener**: Tells your game to pick up audio and play it back through the device’s speakers.
 
-![project setup](({{page.dir}}/images/cameraView.jpg)
+![project setup]({{page.dir}}/images/cameraView.jpg)
 
 ## Set up the scene
 You’ll be setting up a scene that has a **ramp**, a **bucket** and a **ball**. When running the scene, the ball will roll off the ramp and land in the bucket.
@@ -34,11 +34,11 @@ Unity has several primitive objects that can be used in your game. A one-meter s
 2. In the **Inspector**, **rename** the **Sphere** to **Ball**.
 3. Position the sphere at the top of the ramp by setting the **Transform’s position** to **(X:-0.85, Y:3.75, Z:1)**.
 
-![project setup](({{page.dir}}/images/setUpScene.gif)
+![project setup]({{page.dir}}/images/setUpScene.gif)
 
 Press the Play button located at the top of the editor to see what happens when running the game.
 
-![project setup](({{page.dir}}/images/playButton.png)
+![project setup]({{page.dir}}/images/playButton.png)
 
 Spoiler: Nothing happens, and the camera is positioned horribly! First, let’s fix the camera:
 

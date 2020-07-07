@@ -15,7 +15,7 @@ The [Unity Hub](https://docs.unity3d.com/Manual/GettingStartedInstallingHub.html
 2. **Name** the project **BuckyBall** and specify the **save location** on your hard drive. Leave the **template** as **3D**.
 3. Click **Create**.
 
-![unity hub](({{page.dir}}/images/hub.jpg)
+![unity hub]({{page.dir}}/images/hub.jpg)
 
 Once Unity has loaded with the project you will see six windows that you’ll use on a regular basis:
 
@@ -28,7 +28,7 @@ Once Unity has loaded with the project you will see six windows that you’ll us
 
 > **Note**: Don’t worry if some of these do not make sense yet – you will learn more of the concepts and interact with the windows throughout the tutorial.
 
-![editor view](({{page.dir}}/images/editorView.jpg)
+![editor view]({{page.dir}}/images/editorView.jpg)
 
 ## Setup your project
 A project is made up of many types of **assets**. An asset is a representation of any item in your game, such as **models**, **images**, **scenes**, **scripts** and more. It is important to keep your assets organized as you will have many.
@@ -40,6 +40,6 @@ In this project you will use two types of assets, models and scripts, which will
 
 The models that you will be using can be downloaded by cloning the GitHub repository. Once downloaded, extract the models located in the **starter** > **models** folder into the **Assets** > **Models** folder in your project.
 
-![project setup](({{page.dir}}/images/projectFileSetup.gif)
+![project setup]({{page.dir}}/images/projectFileSetup.gif)
 
 

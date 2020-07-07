@@ -15,11 +15,11 @@ It would be more engaging to show the player a “Success!” when the ball land
 1. Right click in the **Hierarchy** and go to **UI** > **Text – Text Mesh Pro**.
 2. A **window** will appear called **TMP Importer**. Click **Import TMP Essentials**. Once done, close the window.
 
-![tmp import](({{page.dir}}/images/addUIObjects.gif)
+![tmp import]({{page.dir}}/images/addUIObjects.gif)
 
 Two new GameObjects have been added to the scene – **Canvas** and **Text (TMP)**. Select **Text (TMP)** and **rename** it to **ResultText**. Clear “**New Text**” from the **Text property** of the **TextMeshPro – Text (UI)** component. 
 
-![tmp import](({{page.dir}}/images/textMeshUI.jpg)
+![tmp import]({{page.dir}}/images/textMeshUI.jpg)
 
 ## Define the behavior
 Next, you will write C# code to update the UI with “Success!”. 
@@ -64,8 +64,8 @@ The inspector can be used to easily add references to GameObjects and/or their c
 
 > **Note**: Becareful when changing values when the game is running! The new values will not be serialized (saved) when you stop play mode.
 
-![set component value](({{page.dir}}/images/setupComponent.gif)
+![set component value]({{page.dir}}/images/setupComponent.gif)
 
 That’s it! Press the Play button to see what happens. 
 
-![final demo](({{page.dir}}/images/finalDemo.gif)
+![final demo]({{page.dir}}/images/finalDemo.gif)
