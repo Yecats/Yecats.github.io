@@ -40,6 +40,6 @@ In this project you will use two types of assets, models and scripts, which will
 
 The models that you will be using can be downloaded by cloning the GitHub repository. Once downloaded, extract the models located in the **starter** > **models** folder into the **Assets** > **Models** folder in your project.
 
-![project setup]({{page.dir}}/images/projectFileSetup.gif)
+![project setup](({{page.dir}}/images/projectFileSetup.gif)
 
 

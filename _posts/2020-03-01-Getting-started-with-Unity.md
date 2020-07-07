@@ -26,7 +26,7 @@ Making games is a fun, rewarding and humbling experience. While learning how can
 
 At the end of this tutorial you will have a game scene that has a ball roll down a ramp and into a bucket. Once it lands in the bucket, the screen will display text.
 
-![Demo of Final Result]({{site.baseurl}}/tutorial/Getting-started-with-Unity/images/finaldemo.gif)
+![Demo of Final Result]({{site.baseurl}}/tutorial/Getting-started-with-Unity/images/finalDemo.gif)
 
 ## Learning Outcomes 
 

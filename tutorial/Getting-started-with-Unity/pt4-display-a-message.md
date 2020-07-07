@@ -62,7 +62,7 @@ A MonoBehavior has several callback methods, often called “magic methods”, t
 ## Setup the Component
 The inspector can be used to easily add references to GameObjects and/or their components instead of writing C#. Doing this also lets you manipulate values at runtime if needed. Select **Bucket** and click on the **bullseye icon** next to the **Result Text Ref** property of the **WinMonitor** component. Pick the **ResultText** GameObject.
 
-> **Note**: Becareful when changing values when the game is running! The new values will not be serialized (saved) when you stop play mode.
+> **Note**: Be careful when changing values when the game is running! The new values will not be serialized (saved) when you stop play mode.
 
 ![set component value]({{page.dir}}/images/setupComponent.gif)
 
