@@ -32,7 +32,7 @@ Open up `CameraController` and familiarize yourself with its contents. The key p
 
 The player can only move the camera if a single finger is touching the screen. If that condition passes, then `InputManager` needs to determine if the finger moved to a new location on the screen. If the finger moved, the new position goes to `CameraController.Move`.
 
-> **Note**: The **Camera Rig** moves little by little each frame via [Vector3.Lerp](https://docs.unity3d.com/ScriptReference/Vector3.Lerp.html). [Time.DeltaTime](https://docs.unity3d.com/ScriptReference/Time-deltaTime.html) and **MovementSpeed** combine to determine how fast to move the Camera Rig. You can adjust **MovementSpeed** to impact how quickly the camera moves to the new target position.
+> The **Camera Rig** moves little by little each frame via [Vector3.Lerp](https://docs.unity3d.com/ScriptReference/Vector3.Lerp.html). [Time.DeltaTime](https://docs.unity3d.com/ScriptReference/Time-deltaTime.html) and **MovementSpeed** combine to determine how fast to move the Camera Rig. You can adjust **MovementSpeed** to impact how quickly the camera moves to the new target position.
 
 Open the `InputManager` script and add the following using statement below the existing using statements:
 
