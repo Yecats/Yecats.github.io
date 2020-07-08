@@ -24,12 +24,12 @@ Now, you'll start by setting up the UI.
 
 The starter project includes a UI prefab with the icons and layout already set up. You only need to add the event logic. First, add the missing game objects to the scene:
 
-1.  Drag the **UI** prefab from **RW/Prefabs** into the scene.
+1.  Drag the **UI** prefab from **WUG/Prefabs** into the scene.
 2.  Then select **GameObject** ▸ **UI** ▸ **Event System** from the top menu.
 3.  Next, click the **Replace with InputSystemUIInputModule** button, located on the **EventSystem** ▸ **Standalone Input Module** component.
 4.  Finally, change **Pointer Behavior** to **Single Unified Pointer**.
 
-**Note**: The **Replace with InputSystemUIInputModule** button only appears if the new Input System package is installed.
+> **Note**: The **Replace with InputSystemUIInputModule** button only appears if the new Input System package is installed.
 
 ![setup ui]({{page.dir}}/images/setupUI.gif)
 
