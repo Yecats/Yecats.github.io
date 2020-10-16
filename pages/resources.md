@@ -23,6 +23,10 @@ Please double check the information and licensing on everything listed as it may
 | [Unity](http://unity3d.com) | Robust engine for creating 2D and 3D games, be it VR or non. Supports C#. Learn more: [Basics of Unity](https://channel9.msdn.com/Shows/dotGAME/Basics-of-Unity).  | Free until company makes $100,000/yr then requires seat license subscription for active development. No royalties.  |
 | [Unreal Engine](https://www.unrealengine.com/en-US/) | Engine for creating 2D and 3D games, be it VR or non. Supports C++ and Blueprints (visual scripting).  | 5% of gross revenue after the first $3,000 per product per calendar quarter   |
 
+## Tools
+| Name                    | Description    |
+| ----------------------- | ---------------------------------------- |
+| [Behavior Tree Visualizer](https://github.com/Yecats/UnityBehaviorTreeVisualizer)  | A tool built in Unity that draws a graph representation of behavior trees running in the scene for easy viewing and debugging.  |
 
 ## 3D Modeling, Rigging and Animation 
 
