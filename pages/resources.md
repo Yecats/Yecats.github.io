@@ -47,6 +47,7 @@ Please double check the information and licensing on everything listed as it may
 
 | Name                    | Description    |
 | ----------------------- | ---------------------------------------- |
+| [My Models](https://sketchfab.com/yecats131) | Various 3D models. |
 | [Kenney Game Assets](http://www.kenney.nl/)  | Over 35,000 free images, audio files and 3D models.  |
 | [AxeyWorks Low Poly Free Pack](http://u3d.as/qa6) | A collection of free 3D models.  |
 | [Free Lowpoly Packs](https://www.reddit.com/r/gamedev/comments/5lwhoe/free_lowpolyflat_shaded_cars/)   | Free low-poly assets created by QuaterniusDev.  |
