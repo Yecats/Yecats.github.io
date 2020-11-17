@@ -1,0 +1,22 @@
+- label: Table of Contents
+  items:
+    - name: Introduction
+      link: /2020/11/16/Get-started-with-behavior-trees.html
+    - name: Getting started
+      link: /tutorial/Get-started-with-behavior-trees/pt1-getting-started.html      
+    - name: Understanding Behavior Trees
+      link: /tutorial/Get-started-with-behavior-trees/pt2-understanding-behavior-trees.html
+    - name: Creating the base node
+      link: /tutorial/Get-started-with-behavior-trees/pt3-create-base-node.html
+    - name: Creating general composites
+      link: /tutorial/Get-started-with-behavior-trees/pt4-create-general-composites.html
+    - name: Creating general decorators
+      link: /tutorial/Get-started-with-behavior-trees/pt5-create-general-decorators.html
+    - name: A closer look at the demo project
+      link: /tutorial/Get-started-with-behavior-trees/pt6-closer-look-at-demo-project.html
+    - name: Creating conditions
+      link: /tutorial/Get-started-with-behavior-trees/pt7-create-custom-conditions.html                        
+    - name: Creating actions
+      link: /tutorial/Get-started-with-behavior-trees/pt8-create-custom-actions.html                        
+    - name: Building and running the Tree
+      link: /tutorial/Get-started-with-behavior-trees/pt9-build-and-run-the-tree.html                                    
