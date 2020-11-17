@@ -45,6 +45,4 @@ Here is what would happen when this branch runs:
 2. If the condition returns **Success**, the Inverter will flip the result to be a **Failure**. In that case, the Sequence will stop running and return **Failure** because one of its children failed.
 3. If the condition returns **Failure**, the Inverter will flip the result to be a **Success**. In that case, the Sequence continue and run Bash Door.
 
-### [Previous (Getting Started)](./pt1-getting-started.md)    |     [Next (Create the base node)](./pt3-create-base-node.md)
-
 

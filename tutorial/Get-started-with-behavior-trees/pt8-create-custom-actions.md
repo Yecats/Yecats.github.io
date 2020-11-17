@@ -134,7 +134,4 @@ On all subsequent evaluations, the node will calculate the distance between the 
 
 It should be noted that this node is rudimentary. It is missing some failsafe checks, such as whether the NavMeshAgent got stuck, the path failed to recalculate or more. 
 
-### [Previous (Create custom conditions)](./pt7-create-custom-conditions.md)    |     [Next (Building and running the Tree)](./pt9-build-and-run-the-tree.md)
-
-
 

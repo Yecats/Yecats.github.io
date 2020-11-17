@@ -44,6 +44,4 @@ You can install BTV through Package Manager:
 
 ![]({{page.dir}}/images/packageManager.gif)
 
-### [Previous (Introduction)](../readme.md)    |     [Next (Understanding Behavior Trees)](./pt2-understanding-behavior-trees.md)
-
 

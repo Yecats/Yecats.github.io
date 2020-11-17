@@ -9,7 +9,7 @@ long-description: Write an AI that will pick up all objects in the scene by navi
 menubar: menu_Get-started-with-behavior-trees
 repo_Link: /Unity/Get-started-with-behavior-trees
 folder_path: Get-started-with-behavior-trees
-image: finalBuild.gif
+image: treeExample.gif
 tags: unity AI artificial-intelligence behavior-trees C#
 published: true
 include_header: true
@@ -28,7 +28,7 @@ Writing a good AI is challenging for many reasons. Not only do you need it to be
 
 You will write an AI that will pick up all objects in the scene by navigating to random way points. At the end of this tutorial you will have fundamental knowledge of how a behavior tree works and will have created foundational nodes that can be reused in all your future projects.
 
-![BTG Example]({{site.baseurl}}/tutorial/Get-started-with-behavior-trees/Images/treeExample.gif)
+![BTG Example]({{site.baseurl}}/tutorial/Get-started-with-behavior-trees/images/treeExample.gif)
 
 ## Learning Outcomes 
 You will learn:

@@ -122,5 +122,4 @@ protected override NodeStatus OnRun()
 ```
 `OnRun()` will do the same instance check and if it passes, will call `GameManager.GetClosestItem` for the next item. If that item is `null` or not within the range of `m_DistanceToCheck` then the condition will return `NodeStatus.Failure`. Otherwise, it will return `NodeStatus.Success`.
 
-### [Previous (A closer look at the demo project)](./pt6-closer-look-at-demo-project.md/)    |     [Next (Create custom actions)](./pt8-create-custom-actions.md)
 

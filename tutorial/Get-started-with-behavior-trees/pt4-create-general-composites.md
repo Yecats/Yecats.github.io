@@ -164,5 +164,3 @@ In this section you have learned about composites, which are a core functionalit
 2. **RandomSelector & RandomSequence**: These would shuffle the children before iterating through them - giving more of a dynamic feel to the AI.
 
 > Behavior Tree Visualizer has examples of these and more in the Standard Behavior Tree Nodes sample project. Go [here](https://github.com/Yecats/UnityBehaviorTreeVisualizer/wiki/Standard-Behavior-Tree-Nodes) for more details.
-
-### [Previous (Create the base node)](./pt3-create-base-node.md)    |     [Next (Create general decorators)](./pt5-create-general-decorators.md/)

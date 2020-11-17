@@ -160,5 +160,4 @@ In this section you learned about decorators and how they can be useful for chan
 
 > Behavior Tree Visualizer has examples of these and more in the Standard Behavior Tree Nodes sample project. Go [here](https://github.com/Yecats/UnityBehaviorTreeVisualizer/wiki/Standard-Behavior-Tree-Nodes) for more details.
 
-### [Previous (Create general composites)](./pt4-create-general-composites.md)    |     [Next (A closer look at the demo project)](./pt6-closer-look-at-demo-project.md/)
 

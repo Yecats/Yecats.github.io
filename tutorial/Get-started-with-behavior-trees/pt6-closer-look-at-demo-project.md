@@ -44,5 +44,4 @@ The **right branch** handles the logic for navigating to a waypoint. Once the AI
 
 ![]({{page.dir}}/images/bt_navigationActivity_Waypoint.gif)
 
-### [Previous (Create general decorators)](./pt5-create-general-decorators.md)    |     [Next (Create custom conditions)](./pt7-create-custom-conditions.md)
 

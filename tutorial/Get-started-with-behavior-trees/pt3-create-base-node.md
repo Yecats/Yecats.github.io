@@ -67,5 +67,3 @@ protected abstract void OnReset();
 
 That is it for the base class! Now it is time to create some composites. 
 
-### [Previous (Understanding Behavior Trees)](./pt2-understanding-behavior-trees.md)    |     [Next (Create General Composites)](./pt4-create-general-composites.md)
-

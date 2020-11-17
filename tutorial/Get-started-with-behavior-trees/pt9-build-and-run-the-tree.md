@@ -179,5 +179,3 @@ You should now see your AI pick up items and a visual graph showing you which pa
 
 ![]({{page.dir}}/images/finalRun.gif)
 
-### [Previous (Create custom actions)](./pt8-create-custom-actions.md/) 
-
