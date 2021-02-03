@@ -13,7 +13,7 @@ comments: false
 It’s time to add the screen to your scene! UI Toolkit comes with a UI Document component, which is where you specify two major areas:
 
 1. **Panel Settings**: The panel is the root VisualElement that all UI Documents are attached to. It’s what handles drawing the UI in the Scene at runtime. There are several settings that you can set to define how the UI should appear at runtime.
-2. **UI Document Component**:  Reference to UXML files that should be associated with the panel (root VIsualElement). You can have multiple of these. 
+2. **UI Document Component**:  Reference to UXML files that should be associated with the panel (root `VIsualElement`). You can have multiple of these. 
 
 You must also have a UI Toolkit Event System component. The Event System component is what handles the input and sends the events to all active panels. Without it, your input will not be routed. There are two you can choose from, depending on if you are using the old or new Input System.
 

@@ -2,17 +2,19 @@
   items:
     - name: Introduction
       link: /2021/02/02/Create-an-in-game-inventory-with-UI-Toolkit.html
-    - name: Getting Started
+    - name: Getting started
       link: /tutorial/Create-an-Inventory-UI-with UI-Toolkit/pt1.html    
-    - name: Design the Inventory UI
-      link: /tutorial/Create-an-Inventory-UI-with UI-Toolkit/pt2.html      
-    - name: Add the Inventory UI to the game
-      link: /tutorial/Create-an-Inventory-UI-with UI-Toolkit/pt3.html
-    - name: Code the Inventory Slots
+    - name: Design the inventory UI
+      link: /tutorial/Create-an-Inventory-UI-with UI-Toolkit/pt2.html     
+    - name: Create the stylesheet
+      link: /tutorial/Create-an-Inventory-UI-with UI-Toolkit/pt3.html             
+    - name: Add the inventory UI to the game
       link: /tutorial/Create-an-Inventory-UI-with UI-Toolkit/pt4.html
-    - name: Populate and interact with the UI
+    - name: Code the inventory slots
       link: /tutorial/Create-an-Inventory-UI-with UI-Toolkit/pt5.html
-    - name: Bonus - Samples & Debugging the UI
+    - name: Populate and interact with the UI
       link: /tutorial/Create-an-Inventory-UI-with UI-Toolkit/pt6.html
+    - name: Bonus - Samples & Debugging the UI
+      link: /tutorial/Create-an-Inventory-UI-with UI-Toolkit/pt7.html
     - name: Challenge - Add a quick slot UI
-      link: /tutorial/Create-an-Inventory-UI-with UI-Toolkit/pt7.html            
+      link: /tutorial/Create-an-Inventory-UI-with UI-Toolkit/pt8.html            

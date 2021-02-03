@@ -15,7 +15,7 @@ published: true
 include_header: true
 hide_footer: true
 hero_height: is-small
-comments: true
+comments: false
 ---
 
 #  Create an in-game Inventory UI with UI Toolkit
