@@ -8,7 +8,7 @@ short-description: Learn the basics of UI Toolkit, the replacement for IMGUI and
 long-description: In this tutorial, you’ll learn the basics of Unity’s new UI system, called UI Toolkit, by creating an in-game inventory system where your player can drag and drop items to move them around. 
 menubar: menu-create-inventory-ui-toolkit
 repo_Link: /Unity/Create-an-Inventory-UI-with UI-Toolkit
-folder_path: Create-an-Inventory-UI-with UI-Toolkit
+folder_path: Create-an-Inventory-UI-with-UI-Toolkit
 image: 5-final.gif
 tags: unity UI-Toolkit UI-Elements C#
 published: true
