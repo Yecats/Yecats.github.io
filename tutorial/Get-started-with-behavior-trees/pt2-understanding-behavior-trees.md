@@ -41,7 +41,7 @@ We are missing a decorator in this example. Let us change it. Instead of wanting
 
 Here is what would happen when this branch runs:
 
-1. The Inverter will execute it's child node, **Do they have the key?**. 
+1. The Inverter will execute it's child node, "**Do they have the key?**". 
 2. If the condition returns **Success**, the Inverter will flip the result to be a **Failure**. In that case, the Sequence will stop running and return **Failure** because one of its children failed.
 3. If the condition returns **Failure**, the Inverter will flip the result to be a **Success**. In that case, the Sequence continue and run Bash Door.
 

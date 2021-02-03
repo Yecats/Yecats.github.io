@@ -48,3 +48,4 @@ You will learn:
 ## Resources
 
 1. [Behavior Tree Visualizer](https://github.com/Yecats/UnityBehaviorTreeVisualizer)
+2. [Unity Navigation and Pathfinding](https://docs.unity3d.com/Manual/Navigation.html)
