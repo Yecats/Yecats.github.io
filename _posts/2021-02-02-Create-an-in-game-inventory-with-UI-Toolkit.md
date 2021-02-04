@@ -38,16 +38,6 @@ What is  great about learning UI Toolkit is you can apply the same skills to cre
 2. This tutorial assumes you have basic knowledge of Unity and intermediate knowledge of C#.
 3. Download the starter project from the [GitHub repository](https://github.com/Yecats/GameDevTutorials).
 
-## Table of Contents
-
-1. [Getting Started](./articles/pt1.md)
-2. [Design the Inventory UI](./articles/pt2.md)
-3. [Add the Inventory UI to the game](./articles/pt3.md)
-4. [Code the Inventory Slots](./articles/pt4.md)
-5. [Populate and interact with the UI](./articles/pt5.md)
-6. [Bonus: Samples & Debugging the UI](./articles/pt6.md)
-7. [Challenge: Add a quick slot UI](./articles/pt7.md)
-
 ## Resources
 This project uses assets from Game-Icons.net and inspiration from from Wenrexa's free UI Kit #3 for the design.
 
