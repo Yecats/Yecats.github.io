@@ -65,11 +65,11 @@ Save your scripts and push play in Unity. You should now have three items in the
 ![]({{page.dir}}/images/5-inventory-populated.png)
 
 ## Add drag and drop behavior
-A “ghost icon” will appear when the player initiates a drag event on an InventorySlot. This lets you freely move the image around the screen without worrying about any funky repositioning logic. Create the ghost image by going back to **UI Builder** and adding a new **VisualElement** as a child of **Container**. **Name** it **GhostIcon**. Set the follow styles:
+A “ghost icon” will appear when the player initiates a drag event on an InventorySlot. This lets you freely move the image around the screen without worrying about any funky repositioning logic. Create the ghost image by going back to **UI Builder** and adding a new **VisualElement** as a child of **Container**. **Name** it **GhostIcon**. Set three styles:
 
 1. **Position**: Absolute
-1. **Size** > **Width & Height**: 128x128
-1. **Visibility**: Hidden
+2. **Size** > **Width & Height**: 128x128
+3. **Visibility**: Hidden
 
 ![]({{page.dir}}/images/5-ghost-icon.png)
 
