@@ -11,7 +11,7 @@ hero_height: is-small
 comments: false
 ---
 
-UI Toolkit ([formerly UI Elements](https://forum.unity.com/threads/renaming-uielements-to-ui-toolkit.854245/)) is Unity’s new UI system that can be used as an alternative to IMGUI (editor UI) and UIGUI (runtime UI). It’s still in preview, so some of the screenshots in this tutorial are likely to change as new releases occur.
+UI Toolkit ([formerly UI Elements](https://forum.unity.com/threads/renaming-uielements-to-ui-toolkit.854245/)) is Unity’s new UI system that can be used as an alternative to IMGUI (editor UI) and Unity UI (runtime UI). It’s still in preview, so some of the screenshots in this tutorial are likely to change as new releases occur.
 
 UI Toolkit completely changes the paradigm on how runtime UI is created. Gone are the days of the Canvas and GameObject based setup. Instead, you develop your UI with patterns similar to web design, including using style sheets. All components that you make can be reusable, making the design pattern a lot quicker. There are two key concepts that are important to building a new UI:
 
