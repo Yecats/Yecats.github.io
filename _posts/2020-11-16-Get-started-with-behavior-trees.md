@@ -18,8 +18,6 @@ hero_height: is-small
 comments: true
 ---
 
-# Get started with Behavior Trees
-
 > You will need Unity 2020.1.13f1 to follow along. This tutorial assumes knowledge of C# and Unity.
 
 > This tutorial uses [Behavior Tree Visualizer](https://github.com/Yecats/UnityBehaviorTreeVisualizer), an open source tool to help view and debug trees.

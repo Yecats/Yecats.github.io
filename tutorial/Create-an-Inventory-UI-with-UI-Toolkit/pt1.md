@@ -15,8 +15,8 @@ UI Toolkit ([formerly UI Elements](https://forum.unity.com/threads/renaming-uiel
 
 UI Toolkit completely changes the paradigm on how runtime UI is created. Gone are the days of the Canvas and GameObject based setup. Instead, you develop your UI with patterns similar to web design, including using style sheets. All components that you make can be reusable, making the design pattern a lot quicker. There are two key concepts that are important to building a new UI:
 
-**Unity eXtensible Markup Language Documents (UXML)**: Defines the structure of the user interfaces and reusable UI templates.
-**Unity Style Sheets (USS)**: Similar to Cascading Style Sheets (CSS), USS allows you to set visual styles and behaviors to your UI. 
+1. **Unity eXtensible Markup Language Documents (UXML)**: Defines the structure of the user interfaces and reusable UI templates.
+2. **Unity Style Sheets (USS)**: Similar to Cascading Style Sheets (CSS), USS allows you to set visual styles and behaviors to your UI. 
 
 > **UXML** and **UI Document** are two terms that are often used interchangeably during this tutorial.
 

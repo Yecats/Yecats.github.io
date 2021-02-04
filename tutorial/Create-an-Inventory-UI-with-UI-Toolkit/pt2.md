@@ -23,11 +23,12 @@ UI Builder is broken out into six different sections:
 
 ![]({{page.dir}}/images/2-design-ui-builder-overview.png)
 
-Now it’s time to create the Inventory UI. Inside UI Builder, click on the first item in the **Hierarchy window**, called **<unsaved window>.uxml**. This pulls up the base properties. Check the **Match Game View** checkbox. This ensures that the UI scales with the screen.
+Now it’s time to create the Inventory UI. Inside UI Builder, click on the first item in the **Hierarchy window**, called **<<unsaved window>>.uxml**. This pulls up the base properties. Check the **Match Game View** checkbox. This ensures that the UI scales with the screen.
 
 ![]({{page.dir}}/images/2-design-match-game-view.png)
 
 Next, Drag VisualElement from the library and drop it in the Hierarchy window. Click on it to pull up the properties. Set the following:
+
 1. **Name**: Container
 2. **Flex** > **Grow** is **1**.
 3. **Align** > **Align Items**: center
