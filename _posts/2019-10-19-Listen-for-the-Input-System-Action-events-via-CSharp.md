@@ -3,7 +3,7 @@ layout: post
 tutorial_title: Listen for the Input System's Action events via C#
 page_title:  "Introduction"
 date:   2019-10-19
-author: Stacey Haffner
+author: Stacey
 short-description: "Learn the new Unity Input System (currently in preview) while creating a configurable camera that can be used in your game."
 long-description: In certain scenarios it may be beneficial to listen for Input System Action callbacks via C#, rather than using the built in Player Input component. This tutorial will walk through writing an `InputManager` script to listen for and route such events. This is a continuation of the How to make a configurable camera with the new Input System tutorial, which covers fundamental knowledge of the Input System.
 menubar: menu_listen-for-input-system-events-via-csharp

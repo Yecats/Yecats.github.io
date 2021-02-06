@@ -3,7 +3,7 @@ layout: post
 tutorial_title: How to select multiple objects based on the center of a collider
 page_title:  "Introduction"
 date:   2019-10-26
-author: Stacey Haffner
+author: Stacey
 short-description: "Select multiple game objects "
 long-description: Learn how to create an RTS/RPG “drag-to-select multiple characters” game mechanic without using raycasts to detect collisions. Instead, we’ll use the center point of the collider’s bounds to detect if it is within the radius of a panel drawn on the UI via the mouse start/end positions. This approach supports perspective camera setups and a can be altered to use any vector3 point.
 menubar: menu-select-multiple-objects-based-on-mid-point-of-collider

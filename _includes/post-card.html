@@ -26,15 +26,9 @@
                 <div class="column">
                     <h1><a class="title is-4" href="{{ site.baseurl }}{{ post.url }}">{{ post.tutorial_title}}</a></h1>
                     <div class="columns columns-post-card is-vcentered">
-                        <div class="column is-2 is-icon-image-48x48">
-                            <img class="is-rounded is-48x48" src={{ author-icon }}>
-                        </div>
-                        <div class="column">
-                            <p class="subtitle is-6">
-                                <a href="https://www.twitter.com/yecats131"> {{post.author}}</a>,
-                                {{post.date | date: "%b %-d, %Y"}}
-                            </p>
-                        </div>
+                        <p class="subtitle is-6">
+                            {{post.date | date: "%b %-d, %Y"}}
+                        </p>
                     </div>
                     <p>{{ post.long-description }}</p>
 

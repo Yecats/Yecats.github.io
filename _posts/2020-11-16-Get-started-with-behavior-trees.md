@@ -3,7 +3,7 @@ layout: post
 tutorial_title: Get started with Behavior Trees
 page_title:  "Introduction"
 date:   2020-11-16
-author: Stacey Haffner
+author: Stacey
 short-description: "Select multiple game objects "
 long-description: Write an AI that will pick up all objects in the scene by navigating to random way points. At the end of this tutorial you will have fundamental knowledge of how a behavior tree works and will have created foundational nodes that can be reused in all your future projects.
 menubar: menu_Get-started-with-behavior-trees

@@ -3,7 +3,7 @@ layout: post
 tutorial_title: Implementing touch with Input System's Enhanced Touch API
 page_title:  "Introduction"
 date:   2020-07-05
-author: Stacey Haffner
+author: Stacey
 short-description: "Select multiple game objects "
 long-description: User input is a core pillar of an interactive and engaging experience. Once you collect it, it's important you present an experience that feels natural and intuitive to the player. In this tutorial, you'll cover the basics of the new Unity Input System by creating a demo project that can Place a 3D model by dragging it off the User Interface (UI) and dropping it into the world as well as move/zoom the camera.
 menubar: menu_Implementing-touch-with-the-new-input-system

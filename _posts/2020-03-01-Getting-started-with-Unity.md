@@ -3,7 +3,7 @@ layout: post
 tutorial_title: Getting started with Unity
 page_title:  "Introduction"
 date:   2020-03-01
-author: Stacey Haffner
+author: Stacey
 short-description: "Get started with Unity"
 long-description: Learn core concepts such as how to create new projects, navigate the user interface, what assets are and how to import them, scene setup, a brief introduction to the physics engine and more.
 menubar: menu-getting-started-with-unity

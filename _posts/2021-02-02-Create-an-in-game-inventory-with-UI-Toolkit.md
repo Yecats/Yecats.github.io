@@ -3,7 +3,7 @@ layout: post
 tutorial_title: Create an in-game inventory UI with UI Toolkit
 page_title:  "Introduction"
 date:   2021-02-02
-author: Stacey Haffner
+author: Stacey
 short-description: Learn the basics of UI Toolkit, the replacement for IMGUI and the Canvas based UI system by creating an in-game inventory.
 long-description: In this tutorial, you’ll learn the basics of Unity’s new UI system, called UI Toolkit, by creating an in-game inventory system where your player can drag and drop items to move them around. 
 menubar: menu-create-inventory-ui-toolkit

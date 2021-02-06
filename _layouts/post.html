@@ -33,7 +33,7 @@ layout: default
 <div class="content box-highlight">
     <h1>{{page.page_title}}</h1>
     {% if page.include_header %}
-    <p>Last Update: {{ page.date | date: "%b %-d, %Y" }} by {{ page.author }}</p>
+    <p>Last Update: {{ page.date | date: "%b %-d, %Y" }}</p>
     {% endif %}
     <div class="tags">
         {% for tag in page.tags %}
