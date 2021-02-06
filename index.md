@@ -16,5 +16,5 @@ You can either follow me on Twitter ([@yecats131](https://twitter.com/yecats131)
 ## Feedback and topic requests
 Have a topic you'd like to see covered? An awesome resource that should be listed? Or perhaps just some general feedback? Great! You can send it via:
 
-1. Post on [GitHub Discussions](https://github.com/Yecats/UnityBehaviorTreeVisualizer/discussions) and/or do a pull Request
+1. Post on [GitHub Discussions](https://github.com/Yecats/GameDevTutorials/discussions) and/or do a pull Request
 2. Twitter at [@yecats131](https://twitter.com/yecats131)
