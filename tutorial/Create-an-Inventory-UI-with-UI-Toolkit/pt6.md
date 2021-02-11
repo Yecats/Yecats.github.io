@@ -79,7 +79,7 @@ Add a reference to **GhostIcon** on `InventoryUIController` by adding a new glob
 
 ```csharp
 //Global variable
-private VisualElement m_GhostIcon;
+private static VisualElement m_GhostIcon;
 ```
 
 Add this line to the end of `InventoryUIController.Awake` (or really just after you set m_Root):
@@ -98,7 +98,7 @@ private static InventorySlot m_OriginalSlot;
 Add a new `StartDrag` method:
 
 ```csharp
-public void StartDrag()
+public static void StartDrag(Vector2 position, InventorySlot originalSlot)
 {
     //Set tracking variables
     m_IsDragging = true;
