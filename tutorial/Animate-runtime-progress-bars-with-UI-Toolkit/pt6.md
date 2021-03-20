@@ -10,7 +10,6 @@ hide_footer: true
 hero_height: is-small
 comments: true
 ---
-# Design 2: Circular progress bar 
 Now that you have gotten a taste of designing and animating a simple progress bar, lets kick it up a notch. In the second half of this tutorial, you will design a circular progress bar with three animations and hook it up to an in-game animation so that it triggers when the player takes a specific action. Here is what the progress “bar” will look like:
 
 ![]({{page.dir}}/images/9-design-2-final.gif.gif) 

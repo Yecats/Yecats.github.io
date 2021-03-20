@@ -10,7 +10,6 @@ hide_footer: true
 hero_height: is-small
 comments: true
 ---
-# Design 1: Animate the progress bar
 I have found that there are two main ways to animate the new UI, depending on the complexity of what you need to do. The first is with the experimental animation functionality that comes built in with UI Toolkit. The second is using a free (but with a paid option) tool called DOTween. For this tutorial, you will use DOTween as you will be animating both the scale of the bar and the text value of the label. 
 
 > The experimental animation features currently only support Layout, Position, Rotation, Scale, Size and animating float style properties. You can read more on the API [here]( https://docs.unity3d.com/ScriptReference/UIElements.Experimental.ITransitionAnimations.html)

@@ -10,8 +10,6 @@ hide_footer: true
 hero_height: is-small
 comments: true
 ---
-# Design 2: Add the UI to the game
-
 Once again, you will need a full screen UI Container. In UI Builder, go to **File** > **New**.  Click on **<unsaved window>.uxml** in the **Hierarchy window** and enable **Match Game View**. 
 
 Next, you will add the circular bar to the bottom of the screen. In the **Library** section, click on the **Project** tab and expand the tree view until you find **Progressbar_Circular.uxml**. Drag it into the Hierarchy. Click on it, and set the following properties:

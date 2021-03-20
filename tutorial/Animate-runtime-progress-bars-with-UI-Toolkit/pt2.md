@@ -10,8 +10,6 @@ hide_footer: true
 hero_height: is-small
 comments: true
 ---
-# Basics of UI Toolkit & UI Builder
-
 ## UI Toolkit
 > This tutorial only covers the basics on UI Toolkit & UI Builder. You can find a more detailed walkthrough by following along with the [Create an in-game inventory UI with UI Toolkit]( https://yecats.github.io/2021/02/02/Create-an-in-game-inventory-with-UI-Toolkit.html) tutorial. 
 

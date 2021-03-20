@@ -10,8 +10,6 @@ hide_footer: true
 hero_height: is-small
 comments: true
 ---
-# Getting Started
-
 UI Toolkit ([formerly UI Elements](https://forum.unity.com/threads/renaming-uielements-to-ui-toolkit.854245/)) is Unity’s new UI system that can be used as an alternative to IMGUI (editor UI) and UIGUI (runtime UI). 
 
 > UI Toolkit is still in preview, so some of the screenshots in this tutorial are likely to change as new releases occur.

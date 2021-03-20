@@ -10,8 +10,6 @@ hide_footer: true
 hero_height: is-small
 comments: true
 ---
-# Design 2: Animate the progress bar
-
 As I mentioned above, this progress bar will have three distinct animations all tied to the progress of the Drum clip:
 
 1. **Percentage Text**: Goes from 1% to 100%.

@@ -10,7 +10,6 @@ hide_footer: true
 hero_height: is-small
 comments: true
 ---
-# Design 1: Loading Progress Bar
 Now it is time to create the first progress bar. This is a basic square progress bar made entirely using properties with UI Toolkit. In other words, there is no sprites just yet. Here is what you will be building:
 
 ![]({{page.dir}}/images/3-final-result-not-animated.png)

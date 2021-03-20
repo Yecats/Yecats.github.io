@@ -10,8 +10,6 @@ hide_footer: true
 hero_height: is-small
 comments: true
 ---
-# Design 1: Add the UI to the game
-
 Before you can add this to your game, you will need a full screen UI Container. In UI Builder, go to **File** > **New**.  Click on **<unsaved window>.uxml** in the **Hierarchy window** and enable **Match Game View**.  This property will automatically set the width and the height of the UI to match the game window.
 
 Next, you will add the progress bar to the center of the screen. In the **Library** section, click on the **Project** tab and expand the tree view until you find **Progressbar_Straight_Border.uxml**. Drag it into the Hierarchy. Click on it, and set the following properties:

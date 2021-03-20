@@ -10,8 +10,6 @@ hide_footer: true
 hero_height: is-small
 comments: true
 ---
-# Design 2: Hook up the progress bar to an existing animation
-
 Open the **CircularProgressBar_Start** scene located under **Assets** > **WUG** > **Scenes**. The scene is minimal and comes with a character who is setup to drum. Push play to see the animation workflow:
 
 ![]({{page.dir}}/images/7-initial animation.gif) 
