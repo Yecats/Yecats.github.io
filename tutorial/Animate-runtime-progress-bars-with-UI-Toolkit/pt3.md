@@ -14,7 +14,7 @@ Now it is time to create the first progress bar. This is a basic square progress
 
 ![]({{page.dir}}/images/3-final-result-not-animated.png)
 
-Inside UI Builder, click on the first item in the **Hierarchy window**, called **<unsaved window>.uxml**. This pulls up the base properties in the Inspector window. Set the **width** to **360** and the **height** to **130**. 
+Inside UI Builder, click on the first item in the **Hierarchy window**, called **<<unsaved window>>.uxml**. This pulls up the base properties in the Inspector window. Set the **width** to **360** and the **height** to **130**. 
 
 Drag a **VisualElement** from the library and drop it in the Hierarchy window. Click on it to pull up the properties. Set the following:
 
