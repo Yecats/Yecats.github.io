@@ -1,0 +1,22 @@
+- label: Table of Contents
+  items:
+    - name: Introduction
+      link: /2021/03/19/Animate-runtime-progress-bars-with-UI-Toolkit.html
+    - name: Getting Started
+      link: /tutorial/Animate-runtime-progress-bars-with-UI-Toolkit/pt1
+    - name: Basics of UI Toolkit & UI Builder
+      link: /tutorial/Animate-runtime-progress-bars-with-UI-Toolkit/pt2
+    - name: Design 1 - Loading Progress Bar
+      link: /tutorial/Animate-runtime-progress-bars-with-UI-Toolkit/pt3
+    - name: Design 1 - Add the UI to the game
+      link: /tutorial/Animate-runtime-progress-bars-with-UI-Toolkit/pt4
+    - name: Design 1 - Animate the progress bar
+      link: /tutorial/Animate-runtime-progress-bars-with-UI-Toolkit/pt5
+    - name: Design 2 - Circular progress bar
+      link: /tutorial/Animate-runtime-progress-bars-with-UI-Toolkit/pt6
+    - name: Design 2 - Add the UI to the game
+      link: /tutorial/Animate-runtime-progress-bars-with-UI-Toolkit/pt7
+    - name: Design 2 - Hook up the progress bar to an existing animation
+      link: /tutorial/Animate-runtime-progress-bars-with-UI-Toolkit/pt8
+    - name: Design 2 - Animate the progress bar
+      link: /tutorial/Animate-runtime-progress-bars-with-UI-Toolkit/pt9
