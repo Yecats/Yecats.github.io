@@ -6,19 +6,17 @@ date: 2021-03-19
 author: Stacey
 short-description: Learn how to animate UI Toolkit runtime elements by creating two in-game progress bars.
 long-description: A lot goes into creating an intuitive experience for your player. Progress bars are often used to reassure the player that something is happening (such as the game loading) or give them an idea on how long something will take. In this tutorial, you will learn some techniques for creating and animating progress bars using UI Toolkit and DOTween.
-image: 1-final.gif.gif
+image: 1-final.gif
 menubar: menu-Animate-runtime-progress-bars-with-UI-Toolkit
 repo_Link: Unity/Animate-runtime-progress-bars-with-UI-Toolkit
 folder_path: Animate-runtime-progress-bars-with-UI-Toolkit
-tags: Tags
+tags: unity c# ui-toolkit ui animation
 published: true
 include_header: true
 hide_footer: true
 hero_height: is-small
 comments: true
 ---
-# Introduction
-
 A lot goes into creating an intuitive experience for your player and one of the more common one is a progress bar. Progress bars often appear on loading screens or when the character is doing a long action that the player must wait for. In this tutorial, you will learn some techniques for creating and animating progress bars using UI Toolkit and DOTween.
 
 ![Example]({{site.baseurl}}/tutorial/Animate-runtime-progress-bars-with-UI-Toolkit/images/1-final.gif)

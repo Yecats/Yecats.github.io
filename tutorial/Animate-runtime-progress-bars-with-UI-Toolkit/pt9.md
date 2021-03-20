@@ -4,7 +4,7 @@ tutorial_title: Animate runtime progress bars with UI Toolkit
 page_title:  Design 2 - Animate the progress bar
 date: 2021-03-19
 author: Stacey
-menubar: 
+menubar: menu-Animate-runtime-progress-bars-with-UI-Toolkit
 published: true
 hide_footer: true
 hero_height: is-small
