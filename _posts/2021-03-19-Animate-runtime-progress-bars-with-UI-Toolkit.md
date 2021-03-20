@@ -17,7 +17,7 @@ hide_footer: true
 hero_height: is-small
 comments: true
 ---
-A lot goes into creating an intuitive experience for your player and one of the more common one is a progress bar. Progress bars often appear on loading screens or when the character is doing a long action that the player must wait for. In this tutorial, you will learn some techniques for creating and animating progress bars using UI Toolkit and DOTween.
+A lot goes into creating an intuitive experience for your player. Progress bars are often used to reassure the player that something is happening (such as the game loading) or give them an idea on how long something will take. In this tutorial, you will learn some techniques for creating and animating progress bars using UI Toolkit and DOTween.
 
 ![Example]({{site.baseurl}}/tutorial/Animate-runtime-progress-bars-with-UI-Toolkit/images/intro-final.gif)
 
