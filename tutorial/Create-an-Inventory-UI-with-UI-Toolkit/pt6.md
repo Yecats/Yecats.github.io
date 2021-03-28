@@ -116,6 +116,8 @@ public static void StartDrag(Vector2 position, InventorySlot originalSlot)
 }
 ```
 
+> `m_GhostIcon.style.top` is setting the position relative to the parent element. If you are adding this inventory as part of a broader UX (say a character sheet) then you must make sure that the Ghost Icon is a direct child of the root element. For example, you could have a **GameScreen** UI that has a **Quick Launch** and **Character Sheet** as children. **Ghost Icon** would need to be a peer of **GameScreen**. (Thank you to Murtidash for flagging this. You can read more about his experience [here](https://forum.unity.com/threads/tutorial-create-an-in-game-inventory-ui-with-ui-toolkit.1051481/#post-6960695).)
+
 `StartDrag` is called by `InventorySlot.OnPointerDown` and its purpose is to, well, start the drag process. :D The first interesting bit of logic here is that the new position for `m_GhostIcon` is set via their style properties. By subtracting half of the height and width, you ensure that the m_GhostIcon appears center to the mouse. 
 
 There are two more pointer events that need to be registered. Add the following code to the end of `InventoryUIController.Awake`:
