@@ -1,1 +1,1 @@
-Website for the [GameDev Tutorials and Resources](https://github.com/Yecats/GameDevTutorials) repository. Head over there to post any issues that you run into with the tutorials as it is actively monitored.
+This website has been retired. Please go to gamedev-resources.com
