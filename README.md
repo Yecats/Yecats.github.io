@@ -1,1 +1,1 @@
-This website has been retired. Please go to gamedev-resources.com
+This website has been retired. Please go to https://gamedev-resources.com
